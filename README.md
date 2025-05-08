@@ -24,7 +24,7 @@ This project focuses on analyzing customer data to understand purchase behavior 
 
 ## Files Included
 
-- Customer_Loyalty_Visuals.twbx — Tableau dashboard
+  - Customer_Loyalty_Visuals.twbx — Tableau dashboard
 - Customer_Analysis.pbix — Power BI dashboard
 - .py script (if any)
 - Customer.csv — Main dataset
