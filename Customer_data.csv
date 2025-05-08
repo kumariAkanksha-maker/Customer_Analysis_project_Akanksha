@@ -1,0 +1,9 @@
+Customer_ID   Transaction_Date  Purchase_Amount,Transaction_Date,purchase_Amount
+1,1/1/2023,120
+1,2/1/2023,200
+2,1/5/2023,50
+2,3/1/2023,60
+3,2/10/2023,150
+3,4/5/2023,80
+4,1/15/2023,300
+4,2/25/2023,120
